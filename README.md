@@ -1,5 +1,4 @@
-# Java-Projects
-Basic Java Projects
+# Java-Programs-and-Projects
 ___________
 
 * Tic Tac Toe Game
